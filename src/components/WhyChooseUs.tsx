@@ -1,5 +1,5 @@
 "use client";
-import { StickyScroll } from "./sticky-scroll-reveal";
+import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
   {
